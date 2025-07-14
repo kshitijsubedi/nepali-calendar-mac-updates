@@ -4,6 +4,14 @@
         <title>Nepali Calendar Mac</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Mon, 14 Jul 2025 10:24:32 +0545</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://s3.tebi.io/mero/app/Nepali%20Calendar%20Mac.dmg" length="2450571" type="application/octet-stream" sparkle:edSignature="FS0BDLLKLFt0M0c0QojXet1uqAUrgn3cErmcRaDeuhRD+JWi31xLMEjfHc+FcPLeTyV7W15zZdN1HLzN/fmpCA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Mon, 14 Jul 2025 08:34:31 +0545</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
