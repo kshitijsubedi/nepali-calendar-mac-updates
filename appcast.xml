@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nepali Calendar Mac</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 14 Jul 2025 08:34:31 +0545</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://s3.tebi.io/mero/app/Nepali%20Calendar%20Mac.dmg" length="2445679" type="application/octet-stream" sparkle:edSignature="GvMD2ZtF/W8YTp2yyUhMxHnJpoCjtw1+Sb5wI9At8vV4POxMnrLzWqIMLaZPcyEdvobfAADaOuSYixeBY84jCQ=="/>
+        </item>
+    </channel>
+</rss>
