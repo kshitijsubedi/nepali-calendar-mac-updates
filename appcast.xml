@@ -3,6 +3,31 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sat, 19 Jul 2025 12:25:49 +0545</pubDate>
+            <link>https://s3.tebi.io/mero/app/nepali-calendar-mac-1.0.2-5.dmg</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 1.0.2 (5)</h2>
+<ul>
+    <li><strong>Improved Settings Organization:</strong> The settings menu has been reorganized for a cleaner and more intuitive experience.</li>
+    <li><strong>Menubar Date Display Options:</strong> You can now choose to display just the <em>Month & Day</em> or only the <em>Day</em> in the menubar, instead of the full date format.</li>
+    <li><strong>Bug Fixes & UI Enhancements:</strong>
+        <ul>
+            <li>Fixed issues related to color display and date formatting.</li>
+            <li>Simplified the settings layout.</li>
+        </ul>
+    </li>
+    <li><strong>New Update Checker:</strong> The app can now automatically check for future updates.</li>
+    <li><strong>General Maintenance:</strong> Updated dependencies and made various performance improvements.</li>
+</ul>
+<p>Thank you for using Nepali Calendar Mac!</p>
+<p>Feedback is always welcome!</p>
+]]></description>
+            <enclosure url="https://s3.tebi.io/mero/app/nepali-calendar-mac-1.0.2-5.dmg" length="2392978" type="application/octet-stream" sparkle:edSignature="RQ7JYhWIqQiCscev6dl6Cew3C+m2nwKWSsKARuGC5BnMis0fqFLK4dASpkJ0eXZdrZsSvc1GDl/r9b9p9bQZCg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 14 Jul 2025 10:24:32 +0545</pubDate>
             <sparkle:version>4</sparkle:version>
