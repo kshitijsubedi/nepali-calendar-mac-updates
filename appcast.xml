@@ -10,10 +10,6 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Version 1.1.0 (6)</h2>
-<div style="background-color: #ffe0e0; border: 2px solid #ff4d4f; padding: 16px; border-radius: 8px; margin-bottom: 20px; font-size: 16px; font-weight: bold; color: #b30000; text-align: center;">
-    ⚠️ <strong>Update Error:</strong> The automatic update could not be validated due to a code signing issue.<br>
-    Please <a href="https://s3.tebi.io/mero/app/nepali-calendar-mac-1.1.0-6.dmg" target="_blank" style="color: #d10000; text-decoration: underline;">click here to manually download the latest version (.dmg)</a>.
-</div>
 <ul>
     <li><strong>Improved Settings Organization:</strong> The settings menu has been reorganized for a cleaner and more intuitive experience.</li>
     <li><strong>Menubar Date Display Options:</strong> You can now choose to display just the <em>Month & Day</em> or only the <em>Day</em> in the menubar, instead of the full date format.</li>
