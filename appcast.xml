@@ -3,6 +3,28 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Fri, 30 Jan 2026 01:27:02 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.5.1-20.dmg</link>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[ <ul>
+    <li>
+      <strong>UI Improvements:</strong>
+    </li>
+    <li>feat: Year progress indicator showing percentage of year completed</li>
+    <li>feat: Monthly events list with relative day labels (आज, भोलि, X दिन)</li>
+    <li>feat: Cleaner navigation header with simplified controls</li>
+    <li>feat: Centered header layout</li>
+    <li>feat: Toggle Year Progress and Events List from Display settings</li>
+    <li>fix: Removed unused "Update Available" menu bar format option</li>
+    <li>fix: Past events now visually faded in events list</li>
+  </ul>
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.5.1-20.dmg" length="1873281" type="application/octet-stream" sparkle:edSignature="S80xWg8cxToI5PB0NAo8jh7i76ZWWKJ60XbHsng88+ci/9y/THIN6VOqKYu4cAEC/G3xC/I8aI2+vPWfxhbsAw=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Fri, 30 Jan 2026 00:39:58 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.5.0-19.dmg</link>
@@ -40,22 +62,6 @@
  </ul>
 ]]></description>
             <enclosure url="https://s3.tebi.io/mero/app/nepali-calendar-mac-1.4.0-18.dmg" length="1664276" type="application/octet-stream" sparkle:edSignature="HVSWgJoJJ4wHTms1kjYEONrWJROZAiTt931RR1mGS8Y1fQ1PX80kMupykWA+ptFLuto8EyvW5s+BjFOLnyJvBg=="/>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Fri, 17 Oct 2025 14:50:01 +0545</pubDate>
-            <link>https://s3.tebi.io/mero/app/nepali-calendar-mac-1.3.1-16.dmg</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description><![CDATA[ <ul>
-  <li>
-    <strong>Improvements & Fixes:</strong>
-  </li>
-  <li>Fixed Tihar date inconsistency issues</li>
- </ul>
-]]></description>
-            <enclosure url="https://s3.tebi.io/mero/app/nepali-calendar-mac-1.3.1-16.dmg" length="1624871" type="application/octet-stream" sparkle:edSignature="djRA8bkyEDqfMiq2gKWUbH5aM89BDxlAHf5DhzJXqhMPkY4leYypGQLrYr5Y+uFT8MucjZ5YQajXRcYfAr+lBA=="/>
         </item>
     </channel>
 </rss>
