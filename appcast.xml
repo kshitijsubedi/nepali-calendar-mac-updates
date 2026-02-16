@@ -3,6 +3,20 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Tue, 17 Feb 2026 00:36:38 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.7.0-24.dmg</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li>Faster date conversion and calendar rendering</li>
+  <li>Copy Nepali or English date from tooltip</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.7.0-24.dmg" length="1924998" type="application/octet-stream" sparkle:edSignature="3urhZrXtW2PGTQRnkhPUSBDbnd6Dhadaffw93DarDE+dbPIF1DizOWZ/z4aK8jV1K6xC7nENsWMmKrwCIX2fBQ=="/>
+        </item>
+        <item>
             <title>1.6.2</title>
             <pubDate>Mon, 16 Feb 2026 23:43:33 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.6.2-23.dmg</link>
@@ -33,29 +47,6 @@
   </ul>
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.6.1-22.dmg" length="1906385" type="application/octet-stream" sparkle:edSignature="dp/7jaZGnvsvMCVscp1Pchhgb0xcXWY2lscPg5lpSOmxTzcmhbNqenXU7hyx7cs18ILU2BhP5YRjCM2hvRaLAg=="/>
-        </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Fri, 30 Jan 2026 02:12:10 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.6.0-21.dmg</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description><![CDATA[ <ul>
-    <li>
-      <strong>BIG UPDATE:</strong>
-    </li>
-    <li>feat: Year progress indicator showing percentage of year completed</li>
-    <li>feat: Monthly events list with relative day labels (आज, भोलि, X दिन)</li>
-    <li>feat: Custom menu bar date format — pick which components to show (Weekday, Day, Month, Year) and reorder them freely </li>
-    <li>feat: Cleaner navigation header with simplified controls</li>
-    <li>feat: Centered header layout</li>
-    <li>feat: Toggle Year Progress and Events List from Display settings</li>
-    <li>fix: Removed unused "Update Available" menu bar format option</li>
-    <li>fix: Past events now visually faded in events list</li>
-  </ul>
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-1.6.0-21.dmg" length="1910644" type="application/octet-stream" sparkle:edSignature="ZIpTlN5JZ4E5gOUlT3FgSzs+vuc05TqLbZ4VNnbS94y79ibURYi19rq3wgRA2g0IcBeCj/pu3fKipgYQ83oCCw=="/>
         </item>
     </channel>
 </rss>
