@@ -3,6 +3,21 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.1.1</title>
+            <pubDate>Sun, 05 Apr 2026 00:00:44 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.1-28.dmg</link>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's New
+
+- **Exclusive Supporter Themes** — Unlock Sunset, Forest, and Midnight themes with a supporter license
+- **Supporter Heart Badge** — Settings icon shows a subtle pink heart for supporters
+- **Bug Fix** — Arrow keys no longer interfere with text input in license key field
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.1-28.dmg" length="2617445" type="application/octet-stream" sparkle:edSignature="k0nVYZWR6U1/W0XMEtIbqn69lAADDamBPoA0j0PGkTSiSgcZulEV4H1sCJsRQ2eoFdpw+EOmeb1bvaqmebPhBQ=="/>
+        </item>
+        <item>
             <title>2.1.0</title>
             <pubDate>Sat, 04 Apr 2026 12:34:04 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.0-27.dmg</link>
