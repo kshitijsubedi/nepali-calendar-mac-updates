@@ -3,6 +3,21 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.1.0</title>
+            <pubDate>Sat, 04 Apr 2026 12:34:04 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.0-27.dmg</link>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's New
+
+- **Calendar Integration** — View Apple Calendar events alongside Nepali dates and export holidays to your calendar
+- **Refined UI** — Smoother animations, redesigned event tabs, and subtler calendar grid
+- **Design Overhaul** — Polished visuals across the calendar with improved typography and spacing
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.0-27.dmg" length="2582893" type="application/octet-stream" sparkle:edSignature="T4czO1hCHTw9xJJWYX3QMSWtVNvyYgrXVERykI6zTn0necGkzyDOKMeERlpVNywXCs07szdED7V42s4+SwIGCg=="/>
+        </item>
+        <item>
             <title>2.0.1</title>
             <pubDate>Sun, 29 Mar 2026 00:30:42 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.0.1-26.dmg</link>
