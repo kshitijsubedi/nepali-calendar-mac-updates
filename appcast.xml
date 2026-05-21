@@ -3,6 +3,29 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Thu, 21 May 2026 23:22:23 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.0-31.dmg</link>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's New in 2.5.0
+
+### New Settings Window
+Proper settings window with sidebar navigation, visual theme picker with live preview, and menu bar style previews.
+
+### Event Management
+Create, edit, and delete calendar events directly from the app. Redesigned event list with colored borders, time columns, and gradient backgrounds.
+
+### Calendar Filtering
+Choose which system calendars to show. Toggle individual calendar sources on or off.
+
+### Swipe & Navigate
+Swipe left or right to change months. Use arrow keys to navigate and ⌘T to jump back to today.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.0-31.dmg" length="2795670" type="application/octet-stream" sparkle:edSignature="KkDbCrtBPa/DGksuOwe4Y705TmR8GOsjeMzcvUGX9xtCHio074IusYSz3gzbSYWsTzmYesxqyujymKlsrC03BQ=="/>
+        </item>
+        <item>
             <title>2.1.1</title>
             <pubDate>Sun, 05 Apr 2026 00:00:44 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.1-28.dmg</link>
