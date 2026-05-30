@@ -3,6 +3,29 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.5.2</title>
+            <pubDate>Sat, 30 May 2026 23:22:43 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.2-33.dmg</link>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's New in 2.5.2
+
+### Fixes
+Fixed an issue where the 2.5.1 build could not be opened on some Macs. The app signing was corrected so it launches everywhere again. If 2.5.1 would not open for you, reinstall this version.
+
+### Retro Theme
+New skeuomorphic Retro theme with beveled day cells, bezel card frame, vintage header bar, and burnt-orange event dots. Dark-mode detection wired through the widget background.
+
+### Widget Enhancements
+Reworked widget calendar grid with App Intents support and configurable customization. Tithi now shows conditionally based on settings, and theme gradient colors sync from the app to the widget.
+
+### Settings & Polish
+Refined settings window and menu, retro-style header nav buttons and event tabs, and assorted theme fixes.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.2-33.dmg" length="2981264" type="application/octet-stream" sparkle:edSignature="OmYQsyLmvUYKpI9JYac66jq/2mzB1BSW7tRKpRgagXFUAHodWgwb64Evc4QbYvNC8As5SmH8k/HGS+r6pJgsBQ=="/>
+        </item>
+        <item>
             <title>2.5.0</title>
             <pubDate>Thu, 21 May 2026 23:22:23 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.0-31.dmg</link>
@@ -39,21 +62,6 @@ Swipe left or right to change months. Use arrow keys to navigate and ⌘T to jum
 - **Bug Fix** — Arrow keys no longer interfere with text input in license key field
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.1-28.dmg" length="2617445" type="application/octet-stream" sparkle:edSignature="k0nVYZWR6U1/W0XMEtIbqn69lAADDamBPoA0j0PGkTSiSgcZulEV4H1sCJsRQ2eoFdpw+EOmeb1bvaqmebPhBQ=="/>
-        </item>
-        <item>
-            <title>2.1.0</title>
-            <pubDate>Sat, 04 Apr 2026 12:34:04 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.0-27.dmg</link>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's New
-
-- **Calendar Integration** — View Apple Calendar events alongside Nepali dates and export holidays to your calendar
-- **Refined UI** — Smoother animations, redesigned event tabs, and subtler calendar grid
-- **Design Overhaul** — Polished visuals across the calendar with improved typography and spacing
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.1.0-27.dmg" length="2582893" type="application/octet-stream" sparkle:edSignature="T4czO1hCHTw9xJJWYX3QMSWtVNvyYgrXVERykI6zTn0necGkzyDOKMeERlpVNywXCs07szdED7V42s4+SwIGCg=="/>
         </item>
         <item>
             <title>2.0.1</title>
