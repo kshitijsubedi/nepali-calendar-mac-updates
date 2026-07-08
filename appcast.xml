@@ -3,6 +3,22 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.5.6</title>
+            <pubDate>Tue, 07 Jul 2026 21:33:08 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.6-37.dmg</link>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>2.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Events List Redesign
+- Card-style rows with clearer titles, notes, and date & time.
+- Today's and upcoming events appear first; past events are dimmed at the end.
+
+## Fixes
+- Day tooltip text was unreadable on light theme; it now matches the active theme.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.6-37.dmg" length="3792522" type="application/octet-stream" sparkle:edSignature="MC1Fu8AI/u27oifYVHit+1ZQ8j9qNiVPS0qgqS8pN4tSYF9LSuCylipbt/sfqa4amV9/YLWpeBRq+URoV8g9Dg=="/>
+        </item>
+        <item>
             <title>2.5.5</title>
             <pubDate>Sat, 13 Jun 2026 10:16:17 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.5-36.dmg</link>
@@ -32,31 +48,6 @@ Removed Medium & Large Widgets in favor of new redesigned small widgets.
 
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.4-35.dmg" length="3719909" type="application/octet-stream" sparkle:edSignature="jMfQMsjajZZ7+shdHah1q6muYz9sj3dGf5MVidxW59QzFekXWIfp5XN8Iq8ayF6vcv9rkdL86l88QhVt8L2XDA=="/>
-        </item>
-        <item>
-            <title>2.5.3</title>
-            <pubDate>Sat, 06 Jun 2026 08:49:19 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.3-34.dmg</link>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>2.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's New in 2.5.2
-
-### 2.5.3 Fixes
-Removed app data permissions needed for the desktop widgets.
-
-## 2.5.2 Changes
-
-### Retro Theme
-New skeuomorphic Retro theme with beveled day cells, bezel card frame, vintage header bar, and burnt-orange event dots. Dark-mode detection wired through the widget background.
-
-### Widget Enhancements
-Reworked widget calendar grid with App Intents support and configurable customization. Tithi now shows conditionally based on settings, and theme gradient colors sync from the app to the widget.
-
-### Settings & Polish
-Refined settings window and menu, retro-style header nav buttons and event tabs, and assorted theme fixes.
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.3-34.dmg" length="3019545" type="application/octet-stream" sparkle:edSignature="EB75mYei4rpazJR3qGcLyzPCJvZ2h+3jPebTJFmdswYZmdB0uiD1D95xhjvFadqxl2buNX6W5TQoQe1EzBHgBw=="/>
         </item>
         <item>
             <title>2.0.1</title>
