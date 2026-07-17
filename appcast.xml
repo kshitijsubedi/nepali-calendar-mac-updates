@@ -3,6 +3,19 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.5.7</title>
+            <pubDate>Fri, 17 Jul 2026 22:41:15 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.7-38.dmg</link>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>2.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Calendar Data Fixes
+- Aasoj 2083 now shows 31 days instead of 30. Mangsir, Poush, and Magh 2083 were wrong by a day each in a way that cancelled out, so only Aasoj looked off; all four are corrected.
+- Fixed Chaitra in 2095, 2096, and 2097. Chaitra 2096 was two days short, leaving that year with 364 days.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.7-38.dmg" length="3771203" type="application/octet-stream" sparkle:edSignature="09nUETLjEmhYEJrIOWOXBdDFK/w6ByvHhUW2uxUawiOTGlkaDK4Lki0l8KewX03yHh4vDmLKmeTphU3mQJhqDg=="/>
+        </item>
+        <item>
             <title>2.5.6</title>
             <pubDate>Tue, 07 Jul 2026 21:33:08 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.6-37.dmg</link>
@@ -32,22 +45,6 @@
 - Past events are dimmed in the list.
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.5-36.dmg" length="3798475" type="application/octet-stream" sparkle:edSignature="1Bcuaq777XmBQVVBRKcEuLzO0NnhA8THDShjC6nwaio8Vz5YCP8QFvbSEsooS8p08b8o3vmVmPTWk4C8Yf2qBw=="/>
-        </item>
-        <item>
-            <title>2.5.4</title>
-            <pubDate>Sun, 07 Jun 2026 10:48:27 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.4-35.dmg</link>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>2.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's New in 2.5.2
-
-### Fixes
-Widgets design fixes.
-Removed Medium & Large Widgets in favor of new redesigned small widgets.
-
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.4-35.dmg" length="3719909" type="application/octet-stream" sparkle:edSignature="jMfQMsjajZZ7+shdHah1q6muYz9sj3dGf5MVidxW59QzFekXWIfp5XN8Iq8ayF6vcv9rkdL86l88QhVt8L2XDA=="/>
         </item>
         <item>
             <title>2.0.1</title>
