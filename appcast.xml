@@ -3,6 +3,22 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.5.8</title>
+            <pubDate>Fri, 17 Jul 2026 23:26:57 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.8-39.dmg</link>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>2.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Appearance
+- The System and Light themes now use the native macOS menu material, so the popover matches other menu-bar apps. Dark mode no longer looks washed-out gray.
+
+## Calendar Data Fixes
+- Aasoj 2083 now shows 31 days instead of 30. Mangsir, Poush, and Magh 2083 were wrong by a day each in a way that cancelled out, so only Aasoj looked off; all four are corrected.
+- Fixed Chaitra in 2095, 2096, and 2097. Chaitra 2096 was two days short, leaving that year with 364 days.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.8-39.dmg" length="3771670" type="application/octet-stream" sparkle:edSignature="/pViHkIu+SXwWT7EkOeDN5d4+9z4Z+0+UPVQ+1wrAUEOK/uCw8Bd777RVZMaTTUUUghyn/9BijyX3ohh5pHqCg=="/>
+        </item>
+        <item>
             <title>2.5.7</title>
             <pubDate>Fri, 17 Jul 2026 22:41:15 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.7-38.dmg</link>
@@ -30,21 +46,6 @@
 - Day tooltip text was unreadable on light theme; it now matches the active theme.
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.6-37.dmg" length="3792522" type="application/octet-stream" sparkle:edSignature="MC1Fu8AI/u27oifYVHit+1ZQ8j9qNiVPS0qgqS8pN4tSYF9LSuCylipbt/sfqa4amV9/YLWpeBRq+URoV8g9Dg=="/>
-        </item>
-        <item>
-            <title>2.5.5</title>
-            <pubDate>Sat, 13 Jun 2026 10:16:17 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.5-36.dmg</link>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>2.5.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Event Fixes
-- Fixed the app closing when picking a date while creating an event.
-- Long event lists now scroll, keeping "Add Event" always reachable.
-- Calendar events now show the date alongside the time.
-- Past events are dimmed in the list.
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.5-36.dmg" length="3798475" type="application/octet-stream" sparkle:edSignature="1Bcuaq777XmBQVVBRKcEuLzO0NnhA8THDShjC6nwaio8Vz5YCP8QFvbSEsooS8p08b8o3vmVmPTWk4C8Yf2qBw=="/>
         </item>
         <item>
             <title>2.0.1</title>
