@@ -3,6 +3,39 @@
     <channel>
         <title>Nepali Calendar Mac</title>
         <item>
+            <title>2.7.0</title>
+            <pubDate>Tue, 24 Nov 2026 18:30:57 +0545</pubDate>
+            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.7.0-42.dmg</link>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Settings
+- The window runs on macOS's own chrome: toolbar panes, grouped forms, and your system accent in place of the crimson tint.
+- The theme picker is a grid of popup sketches, so Sky and Ocean no longer read as the same blue rectangle. Picking a theme opens the popup so you see the change.
+- Menu bar drops its preview strip, and every pane sizes the window to its own content.
+- Sentence case throughout, no all-caps labels, no icons in tinted circles.
+- General lists the mobile app: iPhone and Android are on the way.
+
+## Navigation
+- `आज` moved into the header, between the month arrows. (suggested by Yuyutsu Poudel)
+- One trackpad swipe moves one month instead of three. (reported by Yuyutsu Poudel)
+- The popup opens on the current month every time. (reported by Yuyutsu Poudel)
+
+## Fixes
+- System calendars load as soon as you grant access, with no trip to Refresh Calendars.
+- Edits in Calendar.app refresh the month you are looking at.
+- A delete that macOS refuses now says so instead of leaving the event in the list.
+- Widgets show holidays added after the release. Each one used to read an event cache that its sandbox never held.
+- Event sync retries instead of failing in silence.
+
+## Polish
+- The Convert button has stronger contrast and lights up on hover.
+- The installer window carries a new calendar-leaf background with a crimson नेपाली पात्रो header.
+- The supporter link opens the license page instead of dropping you into checkout.
+]]></description>
+            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.7.0-42.dmg" length="3451268" type="application/octet-stream" sparkle:edSignature="d8XoVHXe6IXacKlh5BMC5MamWEneV6Tpn9OzfuSmAFOfDpIvxU3NobZ2VacRE1A8DTEnm1s8TTHfbYjERlumAg=="/>
+        </item>
+        <item>
             <title>2.6.1</title>
             <pubDate>Fri, 06 Nov 2026 12:53:40 +0545</pubDate>
             <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.6.1-41.dmg</link>
@@ -34,19 +67,6 @@
 - Fixed Chaitra in 2095, 2096, and 2097. Chaitra 2096 was two days short, leaving that year with 364 days.
 ]]></description>
             <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.8-39.dmg" length="3771670" type="application/octet-stream" sparkle:edSignature="/pViHkIu+SXwWT7EkOeDN5d4+9z4Z+0+UPVQ+1wrAUEOK/uCw8Bd777RVZMaTTUUUghyn/9BijyX3ohh5pHqCg=="/>
-        </item>
-        <item>
-            <title>2.5.7</title>
-            <pubDate>Fri, 17 Jul 2026 22:41:15 +0545</pubDate>
-            <link>https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.7-38.dmg</link>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>2.5.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.1</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Calendar Data Fixes
-- Aasoj 2083 now shows 31 days instead of 30. Mangsir, Poush, and Magh 2083 were wrong by a day each in a way that cancelled out, so only Aasoj looked off; all four are corrected.
-- Fixed Chaitra in 2095, 2096, and 2097. Chaitra 2096 was two days short, leaving that year with 364 days.
-]]></description>
-            <enclosure url="https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-2.5.7-38.dmg" length="3771203" type="application/octet-stream" sparkle:edSignature="09nUETLjEmhYEJrIOWOXBdDFK/w6ByvHhUW2uxUawiOTGlkaDK4Lki0l8KewX03yHh4vDmLKmeTphU3mQJhqDg=="/>
         </item>
         <item>
             <title>2.0.1</title>
